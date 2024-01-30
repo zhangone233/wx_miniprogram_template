@@ -1,0 +1,7 @@
+# .vscode
+
+#
+dist
+.cloudbase
+node_modules
+

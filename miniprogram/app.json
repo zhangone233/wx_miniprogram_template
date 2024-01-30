@@ -1,4 +1,5 @@
 {
+  "debug": true,
   "pages": [
     "pages/index/index",
     "pages/logs/logs"
@@ -15,6 +16,10 @@
       "sdkVersionBegin": "3.0.0",
       "sdkVersionEnd": "15.255.255"
     }
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
   },
   "componentFramework": "glass-easel",
   "sitemapLocation": "sitemap.json",
